@@ -1,0 +1,41 @@
+#title {
+    text-align: center;
+    font-size: 100px;
+
+}
+
+/*Tuscan bean image*/
+
+#image {
+    float: left;
+    margin-left: 100px;
+   
+}
+
+/*Description paragraph*/
+
+.paragraph {
+
+    margin-left: 70%;
+    margin-right:20%;
+
+}
+
+
+.subtitle {
+
+    margin-left: 70%;
+    font-size: 40px;
+
+}   
+
+.paragraph.list {
+    margin-left: 70%;
+    margin-right: 10%;
+    
+}
+
+#home {
+
+    text-align: right;
+}
